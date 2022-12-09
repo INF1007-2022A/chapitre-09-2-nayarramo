@@ -1,0 +1,10 @@
+test_build_recursive_sequence_generator (__main__.FibonacciTests.test_build_recursive_sequence_generator) ... ok
+test_invalid_lengths (__main__.FibonacciTests.test_invalid_lengths) ... ok
+test_is_generator (__main__.FibonacciTests.test_is_generator) ... ok
+test_valid_lengths (__main__.FibonacciTests.test_valid_lengths) ... ok
+test_prime (__main__.PrimeTests.test_prime) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
